@@ -17,3 +17,5 @@ wednesday things done
 - model 2 (all but the last)
 
 thursday things needed to do
+- finished all linear regression models
+- work on decision tree and random tree
